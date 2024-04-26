@@ -1,0 +1,9 @@
+Stiamo osservando una serie di tentativi di penetrazione evidenziati da un flusso continuo di richieste di connessione TCP provenienti da un nodo specifico (192.168.200.100) diretto verso un altro terminale nella rete (192.168.200.150).
+Questi tentativi sono come un assalto, con l'aggressore che batte su ogni porta per trovare un varco. Alcune porte rispondono positivamente, altre restano chiuse, ma l'aggressore non demorde.
+Questo comportamento indica un'azione di scansione della rete per individuare punti vulnerabili.
+Per contrastare quest'attacco:
+Implementiamo un firewall virtuale: Configuriamo il firewall per respingere qualsiasi tentativo di accesso dal nodo sospetto, impedendogli di sondare ulteriormente le nostre difese.
+Potenziamo le difese: Potenziando il firewall del terminale bersaglio, possiamo respingere specificamente le incursioni del nodo sospetto, rendendo le sue incursioni sempre più difficili.
+Vigilanza costante: Continuiamo a monitorare attentamente l'attività della rete, come un occhio elettronico che sorveglia ogni movimento sospetto nell'oscurità digitale.
+Rafforzamento del sistema: Manteniamo costantemente aggiornato il software del dispositivo bersaglio, sigillando ogni potenziale falla che potrebbe essere sfruttata dagli aggressori. Rendiamo la nostra difesa come una fortezza cibernetica, impenetrabile anche per i più abili hacker.
+Adottando queste contromisure, rendiamo praticamente semi impossibile per gli aggressori penetrare nella nostra rete e trafugare i nostri dati.
